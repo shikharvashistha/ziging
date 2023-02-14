@@ -6,7 +6,7 @@
 
 ``` tar -xvf /workspace/zig-linux-x86_64-0.11.0-dev.1580+a5b34a61a.tar.xz -C /workspace/```
 
-```sudo cp /workspace/zig-linux-x86_64-0.11.0-dev.1580+a5b34a61a/zig /usr/local/bin/zig```
+``` export PATH=$PATH:/workspace/zig-linux-x86_64-0.11.0-dev.1580+a5b34a61a/```
 
 ``` rm -rf /workspace/zig-linux-x86_64-0.11.0-dev.1580+a5b34a61a.tar.xz```
 
